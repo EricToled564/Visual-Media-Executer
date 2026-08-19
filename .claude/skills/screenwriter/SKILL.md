@@ -3,7 +3,7 @@ name: screenwriter
 description: >
   Transform creative ideas into professional, production-ready screenplays optimized for AI video generation pipelines. Converts raw concepts into structured scene-by-scene narratives with rich visual descriptions, proper screenplay formatting, and XML-tagged output for seamless integration with image/video generation tools (imagine, arch-v).
   
-  USE WHEN: Converting story ideas into screenplay format, preparing content for AI video pipelines, structuring narratives for 5-10 minute short films, generating visual-rich scene descriptions for image generation.
+  USE WHEN: Converting story ideas into screenplay format, preparing content for AI video pipelines, structuring narratives for 5-10 minute short films, generating visual-rich scene descriptions for image generation. Use this even when the user doesn't say "screenplay" explicitly — e.g. "break this idea into scenes" or "write the script for this short film."
   
   WORKFLOW: Raw idea → Scene breakdown → Visual enhancement → Professional formatting → XML-tagged markdown output
   
